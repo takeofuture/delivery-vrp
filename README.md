@@ -498,4 +498,4 @@ Use Colab Secrets or another secure secret-management mechanism for API credenti
 
 # License
 
-Add the license appropriate for your project before redistributing or reusing the repository.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
