@@ -28,26 +28,6 @@ The main goal is not simply to find the shortest route, but to create a more rea
 
 ## Demo Notebooks
 
-# Delivery VRP with Traffic, Driver Constraints, and 3D Packing
-
-This repository demonstrates a Python-based delivery optimization workflow that combines:
-
-- OpenStreetMap road networks
-- TomTom real-time traffic data
-- Vehicle Routing Problem (VRP) optimization with Google OR-Tools
-- Customer delivery time windows
-- Driver shifts and truck qualifications
-- Soft driver-overtime penalties
-- Truck payload and volume limits
-- 3D cargo packing feasibility with `py3dbp`
-- Iterative re-optimization when a proposed truck load cannot physically fit
-
-The main goal is not simply to find the shortest route, but to create a more practical delivery plan that considers routing, traffic, drivers, trucks, time constraints, and physical cargo.
-
----
-
-## Demo Notebooks
-
 ### 07A1 — Base Scenario with TomTom
 
 Base delivery scenario using:
